@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+motor
+passlib
+bcrypt
+python-multipart
+pyjwt
+starlette
+requests
+python-jose[cryptography]
+nh3
+cryptography
+rsa
